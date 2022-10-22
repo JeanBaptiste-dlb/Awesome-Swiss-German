@@ -669,3 +669,8 @@ $ sudo bclm unpersist
 
 * The Language Interpretability Tool: Interactively analyze NLP models for model understanding in an extensible and framework agnostic interface.
 https://mtc.ethz.ch/research/natural-language-processing/swiss-voice.html
+
+
+## Machine learning intro 
+https://github.com/JeanBaptiste-dlb/ML_quick_intro
+
